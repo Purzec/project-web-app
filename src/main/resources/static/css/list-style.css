@@ -1,0 +1,38 @@
+.root {
+text-align: center;
+}
+table {
+margin-left:auto;
+margin-right:auto;
+border: 1px solid darkGray;
+border-collapse: collapse;
+}
+th {
+background: lightGray;
+color: black;
+border: 1px solid darkGray;
+padding: 10px;
+font-weight: normal;
+font-size: 1.1em;
+}
+td {
+border: 1px solid darkGray;
+padding: 5px 10px;
+}
+.search-block {
+width: 80%;
+}
+.search-field {
+padding: 5px 10px 5px 10px;
+margin: 25px 5px 5px 5px;
+}
+.search-button {
+padding: 5px 15px 5px 15px;
+margin: 15px 5px 0px 5px;
+cursor: pointer;
+}
+.size-block {
+width: 80%;
+text-align: right;
+margin-bottom: 15px;
+}
